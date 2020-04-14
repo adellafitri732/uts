@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="content_text">Adella adalah seseorang yang humoris, dan mudah bergaul. Hobi saya suka menonton film horor, saya juga suka bermain olahraga yaitu bulutangkis disaat sore hari. Jika tidak ada kegiatan saya memilih untuk tidur.</string>
+    <string name="content_specs_bron">22 Juni 1999 (usia 21 tahun)</string>
+    <string name="content_specs_high"> 155 meter </string>
+    <string name="content_specs_address"> Rt04/Rw03 Dusun Pulorejo\n
+    Desa Kalisari\n
+    Kecamatan Kradenan\n
+    Kabupaten Grobogan\n
+    Provinsi Jawa Tengah</string>
+    <string name="major">Mahasiswa Informatika UPGRIS</string>
+    <string name="specification">Detail</string>
+    <string name="bron">Lahir</string>
+    <string name="high">Tinggi</string>
+    <string name="address">Alamat</string>
+    <string name="university">Tugas Ini Dibuat Oleh</string>
+    <string name="my_name">Nama     : Adella Fitri Setianda\n
+        NPM      : 17670025</string>
+    <string name="test">UTS</string>
+    <string name="dummy_value">Adella_FS</string>
+    <string name="dummy_photos">Foto</string>
+</resources>
